@@ -13,5 +13,3 @@ const range = (start, end, step) => {
     return result;
   }
 };
-
-console.log(range(0, 8, 2));
